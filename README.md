@@ -62,9 +62,9 @@ Each of the four module ports provides a consistent pinout, with power rails sel
 
 ## Additional Onboard Features
 
-- **SD Card Connector:** Compatible with native SDHI pins on RZ/A3UL, RZ/A3M, and RA8M1 Feather SoMs.
-- **Rotary Encoder**
+- **Rotary Encoder with Push-Button**
 - **Neopixel RGB LED**
+- **SD Card Connector:** Compatible with native SDHI pins on RZ/A3UL, RZ/A3M, and RA8M1 Feather SoMs.
 - **2 x Qwiic Connectors:** For easy I²C expansion.
 - **Display Connector:** Supports 4D Systems gen4-uLCD-24D display.
 
@@ -90,6 +90,11 @@ Certain onboard features and port assignments share GPIOs. Their function can be
 
 - **Input Voltage:** 5–24V DC
 - **Connector:** AMASS XT30PW-M
+
+## Mechanical Specifications
+
+- **M3 mounting holes**
+- **Carrier Board Dimensions: 100 x 130 mm**
 
 **For detailed schematics, board layout, and further documentation, please refer to the project files included in this repository.**
 
